@@ -1,19 +1,15 @@
-=====================
-RESTAURANTES
-=====================
-
-Simple pygame implementation of Conway's Game of Life.
+======================
+🍴   RESTAURANTES   🍴
+======================
 
 .. contents::
 
-Hamburgueserías
-----------------
-
-.. image:: screenshots/screenshot.png
+🍔 Hamburgueserías
+------------------
 
 
-Italianos
-----------
+🍝 Italianos
+------------
 
 Install with pip::
 
@@ -24,12 +20,12 @@ Install from source::
   python setup.py install
 
 
-Asiáticos
----------
+🥢 Asiáticos
+------------
 
-Japonés
-Chino
-Thailandés
+🍣 Japonés
+🍜 Chino
+🍛 Thailandés
 
 Tapas
 -----
